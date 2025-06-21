@@ -1,4 +1,7 @@
-:root {
+body {
+  margin: 20px;
+}
+          :root {
     --superhero: 'Bangers', cursive;
     --fantasy: 'MedievalSharp', cursive;
     --space: 'Orbitron', sans-serif;
