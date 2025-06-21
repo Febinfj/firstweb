@@ -1,4 +1,4 @@
-// Challenge 2:
+console.log("from script file");// Challenge 2:
 // Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
@@ -85,4 +85,3 @@ function favouriteFruit(theme) {
         setProp('--dark', "#222222")
     } 
 }
-
